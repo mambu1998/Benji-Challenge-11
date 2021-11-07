@@ -39,4 +39,8 @@ THEN I am presented with empty fields to enter a new note title and the note’s
 
 # Github link
 
+https://github.com/mambu1998/Benji-Challenge-11/settings/pages
+
 # Github live Link
+
+https://mambu1998.github.io/Benji-Challenge-11/
